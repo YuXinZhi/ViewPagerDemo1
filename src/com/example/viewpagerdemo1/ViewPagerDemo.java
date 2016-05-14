@@ -29,6 +29,7 @@ public class ViewPagerDemo extends Activity {
 		viewList.add(v3);
 		
 		
+		
 
 	}
 }
